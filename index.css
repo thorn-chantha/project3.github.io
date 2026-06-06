@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}.img{
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://i.shgcdn.com/0720502b-f3af-4a85-bb10-00036094d6b4/-/format/auto/-/quality/normal/);
+}.bg_color{
+    background-color: rgba(0, 0, 0, 0.342);
+    height: 600px;
+}.bg_navbar{
+    background-color: gray;
+}.watch{
+    width: 100%;
+    height: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://paul-rich.com/cdn/shop/files/PR179G_Lagacy_Sunray_SilverSilver_Sofa_Sqaure_4k_1_1135x1362.png.jpg?v=1728928088);
+}
